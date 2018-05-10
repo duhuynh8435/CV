@@ -1,1 +1,2 @@
-This is my CV
+# My CV #
+[Tran Quoc Du Huynh](https://github.com/duhuynh8435/CV/blob/master/duhuynh.pdf)
